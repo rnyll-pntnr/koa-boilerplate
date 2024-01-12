@@ -1,0 +1,10 @@
+# Production Files
+dist
+
+# Development Files
+coverage
+node_modules
+.env.development
+.env.production
+.env.staging
+.env
